@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069284166534",
+    "project_id": "autentication-16fe6",
+    "storage_bucket": "autentication-16fe6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069284166534:android:2158b2ff78ef5221fd7a07",
+        "android_client_info": {
+          "package_name": "com.example.semana8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLi_MK8FZJa1fd3IQHoK8lq15XIfyI4LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
